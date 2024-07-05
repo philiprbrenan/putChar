@@ -1,5 +1,5 @@
 //------------------------------------------------------------------------------
-// Write Hello World without using  printf
+// Write Hello World without using   printf
 // Philip R Brenan at appaapps dot com, Appa Apps Ltd. Inc. 2024
 //------------------------------------------------------------------------------
 #include <stdio.h>
