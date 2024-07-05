@@ -5,6 +5,5 @@
 #include <stdio.h>
 
 int main()
- {char *m = "Hello World\n";                                                    // The message
-  for(char *c = m; *c; ++c) putchar(*c);                                        // Scan string printing each character
+ {for(char *c = "Hello World\n"; *c; ++c) putchar(*c);                          // Scan string printing each character
  }
