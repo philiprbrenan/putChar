@@ -5,7 +5,7 @@ name: Test
 on:
   push:
     paths:
-      - '**/main.yml'
+      - '**/*.c'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
