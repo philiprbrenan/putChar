@@ -6,5 +6,5 @@
 
 int main()
  {char *m = "Hello World\n";                                                    // The message
-  for(char *c = m; *c; ++c) putchar(*c);                                        // Scan string printing each characxter
+  for(char *c = m; *c; ++c) putchar(*c);                                        // Scan string printing each character
  }
